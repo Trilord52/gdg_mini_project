@@ -22,7 +22,7 @@ Error handling with proper HTTP status codes
 ## Installation
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Trilord52/gdg_mini_project.git
 cd gdg_mini_project
 ```
 2. Install dependencies:
